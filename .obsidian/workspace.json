@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b94f54455bbcb52c",
+        "id": "ae9a52506d3366f0",
         "type": "tabs",
         "children": [
           {
-            "id": "3488f3109b12a6b0",
+            "id": "0f184e171d393a33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2- Daily Notes/Diary/2025-02-19.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-02-19"
             }
           }
         ]
@@ -161,16 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82d4c509c3da7d5b",
+  "active": "0f184e171d393a33",
   "lastOpenFiles": [
+    "2- Daily Notes/Diary/2025-02-19.md",
+    "7- Template/Dairy Template.md",
+    "2- Daily Notes/Diary/asdasda.md",
+    "2- Daily Notes/2025-02-19.md",
+    "2025-02-19.md",
+    "6- Tags/anime.md",
+    "5- Entertainments/Reviews/Games",
+    "6- Tags/diary.md",
     "1- Inbox/init.md",
     "7- Template/Generic Note.md",
-    "2- Daily Notes/Diary/Untitled.md",
     "2- Daily Notes/Diary/hi.md",
     "7- Template/diary.md",
     "2- Daily Notes/Diary/sdasd.md",
-    "6- Tags/diary.md",
-    "6- Tags/anime.md",
     "6- Tags/book.md",
     "5- Entertainments/Reviews/Anime/Untitled.md",
     "1- Inbox/newNote.md",
@@ -192,7 +201,6 @@
     "Archive/Untitled.md",
     "99- Archive",
     "2- Daily Notes",
-    "5- Entertainments/Reviews/TV Shows & Movies",
     "Welcome.md"
   ]
 }
